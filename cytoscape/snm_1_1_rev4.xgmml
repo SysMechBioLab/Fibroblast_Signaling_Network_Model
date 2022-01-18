@@ -1,0 +1,3254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<graph label="Cytoscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML"  directed="1">
+<att name="documentVersion" value="1.1"/>
+<node label="AngII" id="1">
+<att type="string" name="shared name" value="AngII" cy:type="String"/>
+<att type="string" name="canonicalName" value="AngII" cy:type="String"/>
+<att type="string" name="name" value="AngII" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="AT1R" id="2">
+<att type="string" name="shared name" value="AT1R" cy:type="String"/>
+<att type="string" name="canonicalName" value="AT1R" cy:type="String"/>
+<att type="string" name="name" value="AT1R" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="AGT" id="3">
+<att type="string" name="shared name" value="AGT" cy:type="String"/>
+<att type="string" name="canonicalName" value="AGT" cy:type="String"/>
+<att type="string" name="name" value="AGT" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="ACE" id="4">
+<att type="string" name="shared name" value="ACE" cy:type="String"/>
+<att type="string" name="canonicalName" value="ACE" cy:type="String"/>
+<att type="string" name="name" value="ACE" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="NOX" id="5">
+<att type="string" name="shared name" value="NOX" cy:type="String"/>
+<att type="string" name="canonicalName" value="NOX" cy:type="String"/>
+<att type="string" name="name" value="NOX" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="ROS" id="6">
+<att type="string" name="shared name" value="ROS" cy:type="String"/>
+<att type="string" name="canonicalName" value="ROS" cy:type="String"/>
+<att type="string" name="name" value="ROS" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="ET1" id="7">
+<att type="string" name="shared name" value="ET1" cy:type="String"/>
+<att type="string" name="canonicalName" value="ET1" cy:type="String"/>
+<att type="string" name="name" value="ET1" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="ETAR" id="8">
+<att type="string" name="shared name" value="ETAR" cy:type="String"/>
+<att type="string" name="canonicalName" value="ETAR" cy:type="String"/>
+<att type="string" name="name" value="ETAR" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="DAG" id="9">
+<att type="string" name="shared name" value="DAG" cy:type="String"/>
+<att type="string" name="canonicalName" value="DAG" cy:type="String"/>
+<att type="string" name="name" value="DAG" cy:type="String"/>
+<att type="string" name="Type" value="small" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="PKC" id="10">
+<att type="string" name="shared name" value="PKC" cy:type="String"/>
+<att type="string" name="canonicalName" value="PKC" cy:type="String"/>
+<att type="string" name="name" value="PKC" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="TRPC" id="11">
+<att type="string" name="shared name" value="TRPC" cy:type="String"/>
+<att type="string" name="canonicalName" value="TRPC" cy:type="String"/>
+<att type="string" name="name" value="TRPC" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="NE" id="12">
+<att type="string" name="shared name" value="NE" cy:type="String"/>
+<att type="string" name="canonicalName" value="NE" cy:type="String"/>
+<att type="string" name="name" value="NE" cy:type="String"/>
+<att type="string" name="Type" value="small" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="BAR" id="13">
+<att type="string" name="shared name" value="BAR" cy:type="String"/>
+<att type="string" name="canonicalName" value="BAR" cy:type="String"/>
+<att type="string" name="name" value="BAR" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="AC" id="14">
+<att type="string" name="shared name" value="AC" cy:type="String"/>
+<att type="string" name="canonicalName" value="AC" cy:type="String"/>
+<att type="string" name="name" value="AC" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="cAMP" id="15">
+<att type="string" name="shared name" value="cAMP" cy:type="String"/>
+<att type="string" name="canonicalName" value="cAMP" cy:type="String"/>
+<att type="string" name="name" value="cAMP" cy:type="String"/>
+<att type="string" name="Type" value="small" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="PKA" id="16">
+<att type="string" name="shared name" value="PKA" cy:type="String"/>
+<att type="string" name="canonicalName" value="PKA" cy:type="String"/>
+<att type="string" name="name" value="PKA" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="CREB" id="17">
+<att type="string" name="shared name" value="CREB" cy:type="String"/>
+<att type="string" name="canonicalName" value="CREB" cy:type="String"/>
+<att type="string" name="name" value="CREB" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="CBP" id="18">
+<att type="string" name="shared name" value="CBP" cy:type="String"/>
+<att type="string" name="canonicalName" value="CBP" cy:type="String"/>
+<att type="string" name="name" value="CBP" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="TGFB" id="19">
+<att type="string" name="shared name" value="TGFB" cy:type="String"/>
+<att type="string" name="canonicalName" value="TGFB" cy:type="String"/>
+<att type="string" name="name" value="TGFB" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="TGFB1R" id="20">
+<att type="string" name="shared name" value="TGFB1R" cy:type="String"/>
+<att type="string" name="canonicalName" value="TGFB1R" cy:type="String"/>
+<att type="string" name="name" value="TGFB1R" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="smad3" id="21">
+<att type="string" name="shared name" value="smad3" cy:type="String"/>
+<att type="string" name="canonicalName" value="smad3" cy:type="String"/>
+<att type="string" name="name" value="smad3" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="smad7" id="22">
+<att type="string" name="shared name" value="smad7" cy:type="String"/>
+<att type="string" name="canonicalName" value="smad7" cy:type="String"/>
+<att type="string" name="name" value="smad7" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="latentTGFB" id="23">
+<att type="string" name="shared name" value="latentTGFB" cy:type="String"/>
+<att type="string" name="canonicalName" value="latentTGFB" cy:type="String"/>
+<att type="string" name="name" value="latentTGFB" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="BAMBI" id="24">
+<att type="string" name="shared name" value="BAMBI" cy:type="String"/>
+<att type="string" name="canonicalName" value="BAMBI" cy:type="String"/>
+<att type="string" name="name" value="BAMBI" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="PDGF" id="25">
+<att type="string" name="shared name" value="PDGF" cy:type="String"/>
+<att type="string" name="canonicalName" value="PDGF" cy:type="String"/>
+<att type="string" name="name" value="PDGF" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="PDGFR" id="26">
+<att type="string" name="shared name" value="PDGFR" cy:type="String"/>
+<att type="string" name="canonicalName" value="PDGFR" cy:type="String"/>
+<att type="string" name="name" value="PDGFR" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="NP" id="27">
+<att type="string" name="shared name" value="NP" cy:type="String"/>
+<att type="string" name="canonicalName" value="NP" cy:type="String"/>
+<att type="string" name="name" value="NP" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="NPRA" id="28">
+<att type="string" name="shared name" value="NPRA" cy:type="String"/>
+<att type="string" name="canonicalName" value="NPRA" cy:type="String"/>
+<att type="string" name="name" value="NPRA" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="cGMP" id="29">
+<att type="string" name="shared name" value="cGMP" cy:type="String"/>
+<att type="string" name="canonicalName" value="cGMP" cy:type="String"/>
+<att type="string" name="name" value="cGMP" cy:type="String"/>
+<att type="string" name="Type" value="small" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="PKG" id="30">
+<att type="string" name="shared name" value="PKG" cy:type="String"/>
+<att type="string" name="canonicalName" value="PKG" cy:type="String"/>
+<att type="string" name="name" value="PKG" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="tension" id="31">
+<att type="string" name="shared name" value="tension" cy:type="String"/>
+<att type="string" name="canonicalName" value="tension" cy:type="String"/>
+<att type="string" name="name" value="tension" cy:type="String"/>
+<att type="string" name="Type" value="process" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="B1int" id="32">
+<att type="string" name="shared name" value="B1int" cy:type="String"/>
+<att type="string" name="canonicalName" value="B1int" cy:type="String"/>
+<att type="string" name="name" value="B1int" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="Rho" id="33">
+<att type="string" name="shared name" value="Rho" cy:type="String"/>
+<att type="string" name="canonicalName" value="Rho" cy:type="String"/>
+<att type="string" name="name" value="Rho" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="ROCK" id="34">
+<att type="string" name="shared name" value="ROCK" cy:type="String"/>
+<att type="string" name="canonicalName" value="ROCK" cy:type="String"/>
+<att type="string" name="name" value="ROCK" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="Ca" id="35">
+<att type="string" name="shared name" value="Ca" cy:type="String"/>
+<att type="string" name="canonicalName" value="Ca" cy:type="String"/>
+<att type="string" name="name" value="Ca" cy:type="String"/>
+<att type="string" name="Type" value="small" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="calcineurin" id="36">
+<att type="string" name="shared name" value="calcineurin" cy:type="String"/>
+<att type="string" name="canonicalName" value="calcineurin" cy:type="String"/>
+<att type="string" name="name" value="calcineurin" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="NFAT" id="37">
+<att type="string" name="shared name" value="NFAT" cy:type="String"/>
+<att type="string" name="canonicalName" value="NFAT" cy:type="String"/>
+<att type="string" name="name" value="NFAT" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="IL6" id="38">
+<att type="string" name="shared name" value="IL6" cy:type="String"/>
+<att type="string" name="canonicalName" value="IL6" cy:type="String"/>
+<att type="string" name="name" value="IL6" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="gp130" id="39">
+<att type="string" name="shared name" value="gp130" cy:type="String"/>
+<att type="string" name="canonicalName" value="gp130" cy:type="String"/>
+<att type="string" name="name" value="gp130" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="STAT" id="40">
+<att type="string" name="shared name" value="STAT" cy:type="String"/>
+<att type="string" name="canonicalName" value="STAT" cy:type="String"/>
+<att type="string" name="name" value="STAT" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="IL1" id="41">
+<att type="string" name="shared name" value="IL1" cy:type="String"/>
+<att type="string" name="canonicalName" value="IL1" cy:type="String"/>
+<att type="string" name="name" value="IL1" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="IL1RI" id="42">
+<att type="string" name="shared name" value="IL1RI" cy:type="String"/>
+<att type="string" name="canonicalName" value="IL1RI" cy:type="String"/>
+<att type="string" name="name" value="IL1RI" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="TNFa" id="43">
+<att type="string" name="shared name" value="TNFa" cy:type="String"/>
+<att type="string" name="canonicalName" value="TNFa" cy:type="String"/>
+<att type="string" name="name" value="TNFa" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="TNFaR" id="44">
+<att type="string" name="shared name" value="TNFaR" cy:type="String"/>
+<att type="string" name="canonicalName" value="TNFaR" cy:type="String"/>
+<att type="string" name="name" value="TNFaR" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="NFKB" id="45">
+<att type="string" name="shared name" value="NFKB" cy:type="String"/>
+<att type="string" name="canonicalName" value="NFKB" cy:type="String"/>
+<att type="string" name="name" value="NFKB" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="PI3K" id="46">
+<att type="string" name="shared name" value="PI3K" cy:type="String"/>
+<att type="string" name="canonicalName" value="PI3K" cy:type="String"/>
+<att type="string" name="name" value="PI3K" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="Akt" id="47">
+<att type="string" name="shared name" value="Akt" cy:type="String"/>
+<att type="string" name="canonicalName" value="Akt" cy:type="String"/>
+<att type="string" name="name" value="Akt" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="p38" id="48">
+<att type="string" name="shared name" value="p38" cy:type="String"/>
+<att type="string" name="canonicalName" value="p38" cy:type="String"/>
+<att type="string" name="name" value="p38" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="TRAF" id="49">
+<att type="string" name="shared name" value="TRAF" cy:type="String"/>
+<att type="string" name="canonicalName" value="TRAF" cy:type="String"/>
+<att type="string" name="name" value="TRAF" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="ASK1" id="50">
+<att type="string" name="shared name" value="ASK1" cy:type="String"/>
+<att type="string" name="canonicalName" value="ASK1" cy:type="String"/>
+<att type="string" name="name" value="ASK1" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="MKK3" id="51">
+<att type="string" name="shared name" value="MKK3" cy:type="String"/>
+<att type="string" name="canonicalName" value="MKK3" cy:type="String"/>
+<att type="string" name="name" value="MKK3" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="PP1" id="52">
+<att type="string" name="shared name" value="PP1" cy:type="String"/>
+<att type="string" name="canonicalName" value="PP1" cy:type="String"/>
+<att type="string" name="name" value="PP1" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="JNK" id="53">
+<att type="string" name="shared name" value="JNK" cy:type="String"/>
+<att type="string" name="canonicalName" value="JNK" cy:type="String"/>
+<att type="string" name="name" value="JNK" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="abl" id="54">
+<att type="string" name="shared name" value="abl" cy:type="String"/>
+<att type="string" name="canonicalName" value="abl" cy:type="String"/>
+<att type="string" name="name" value="abl" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="Rac1" id="55">
+<att type="string" name="shared name" value="Rac1" cy:type="String"/>
+<att type="string" name="canonicalName" value="Rac1" cy:type="String"/>
+<att type="string" name="name" value="Rac1" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="MEKK1" id="56">
+<att type="string" name="shared name" value="MEKK1" cy:type="String"/>
+<att type="string" name="canonicalName" value="MEKK1" cy:type="String"/>
+<att type="string" name="name" value="MEKK1" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="MKK4" id="57">
+<att type="string" name="shared name" value="MKK4" cy:type="String"/>
+<att type="string" name="canonicalName" value="MKK4" cy:type="String"/>
+<att type="string" name="name" value="MKK4" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="ERK" id="58">
+<att type="string" name="shared name" value="ERK" cy:type="String"/>
+<att type="string" name="canonicalName" value="ERK" cy:type="String"/>
+<att type="string" name="name" value="ERK" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="Ras" id="59">
+<att type="string" name="shared name" value="Ras" cy:type="String"/>
+<att type="string" name="canonicalName" value="Ras" cy:type="String"/>
+<att type="string" name="name" value="Ras" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="Raf" id="60">
+<att type="string" name="shared name" value="Raf" cy:type="String"/>
+<att type="string" name="canonicalName" value="Raf" cy:type="String"/>
+<att type="string" name="name" value="Raf" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="MEK1" id="61">
+<att type="string" name="shared name" value="MEK1" cy:type="String"/>
+<att type="string" name="canonicalName" value="MEK1" cy:type="String"/>
+<att type="string" name="name" value="MEK1" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="FAK" id="62">
+<att type="string" name="shared name" value="FAK" cy:type="String"/>
+<att type="string" name="canonicalName" value="FAK" cy:type="String"/>
+<att type="string" name="name" value="FAK" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="epac" id="63">
+<att type="string" name="shared name" value="epac" cy:type="String"/>
+<att type="string" name="canonicalName" value="epac" cy:type="String"/>
+<att type="string" name="name" value="epac" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="Factin" id="64">
+<att type="string" name="shared name" value="Factin" cy:type="String"/>
+<att type="string" name="canonicalName" value="Factin" cy:type="String"/>
+<att type="string" name="name" value="Factin" cy:type="String"/>
+<att type="string" name="Type" value="" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="FA" id="65">
+<att type="string" name="shared name" value="FA" cy:type="String"/>
+<att type="string" name="canonicalName" value="FA" cy:type="String"/>
+<att type="string" name="name" value="FA" cy:type="String"/>
+<att type="string" name="Type" value="complex" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="cmyc" id="66">
+<att type="string" name="shared name" value="cmyc" cy:type="String"/>
+<att type="string" name="canonicalName" value="cmyc" cy:type="String"/>
+<att type="string" name="name" value="cmyc" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="CTGF" id="67">
+<att type="string" name="shared name" value="CTGF" cy:type="String"/>
+<att type="string" name="canonicalName" value="CTGF" cy:type="String"/>
+<att type="string" name="name" value="CTGF" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="proliferation" id="68">
+<att type="string" name="shared name" value="proliferation" cy:type="String"/>
+<att type="string" name="canonicalName" value="proliferation" cy:type="String"/>
+<att type="string" name="name" value="proliferation" cy:type="String"/>
+<att type="string" name="Type" value="event" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="SRF" id="69">
+<att type="string" name="shared name" value="SRF" cy:type="String"/>
+<att type="string" name="canonicalName" value="SRF" cy:type="String"/>
+<att type="string" name="name" value="SRF" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="EDAFN" id="70">
+<att type="string" name="shared name" value="EDAFN" cy:type="String"/>
+<att type="string" name="canonicalName" value="EDAFN" cy:type="String"/>
+<att type="string" name="name" value="EDAFN" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="aSMA" id="71">
+<att type="string" name="shared name" value="aSMA" cy:type="String"/>
+<att type="string" name="canonicalName" value="aSMA" cy:type="String"/>
+<att type="string" name="name" value="aSMA" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="AP1" id="72">
+<att type="string" name="shared name" value="AP1" cy:type="String"/>
+<att type="string" name="canonicalName" value="AP1" cy:type="String"/>
+<att type="string" name="name" value="AP1" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="TIMP1" id="73">
+<att type="string" name="shared name" value="TIMP1" cy:type="String"/>
+<att type="string" name="canonicalName" value="TIMP1" cy:type="String"/>
+<att type="string" name="name" value="TIMP1" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="TIMP2" id="74">
+<att type="string" name="shared name" value="TIMP2" cy:type="String"/>
+<att type="string" name="canonicalName" value="TIMP2" cy:type="String"/>
+<att type="string" name="name" value="TIMP2" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="PAI1" id="75">
+<att type="string" name="shared name" value="PAI1" cy:type="String"/>
+<att type="string" name="canonicalName" value="PAI1" cy:type="String"/>
+<att type="string" name="name" value="PAI1" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="proMMP14" id="76">
+<att type="string" name="shared name" value="proMMP14" cy:type="String"/>
+<att type="string" name="canonicalName" value="proMMP14" cy:type="String"/>
+<att type="string" name="name" value="proMMP14" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="proMMP1" id="77">
+<att type="string" name="shared name" value="proMMP1" cy:type="String"/>
+<att type="string" name="canonicalName" value="proMMP1" cy:type="String"/>
+<att type="string" name="name" value="proMMP1" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="proMMP2" id="78">
+<att type="string" name="shared name" value="proMMP2" cy:type="String"/>
+<att type="string" name="canonicalName" value="proMMP2" cy:type="String"/>
+<att type="string" name="name" value="proMMP2" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="proMMP9" id="79">
+<att type="string" name="shared name" value="proMMP9" cy:type="String"/>
+<att type="string" name="canonicalName" value="proMMP9" cy:type="String"/>
+<att type="string" name="name" value="proMMP9" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="fibronectin" id="80">
+<att type="string" name="shared name" value="fibronectin" cy:type="String"/>
+<att type="string" name="canonicalName" value="fibronectin" cy:type="String"/>
+<att type="string" name="name" value="fibronectin" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="periostin" id="81">
+<att type="string" name="shared name" value="periostin" cy:type="String"/>
+<att type="string" name="canonicalName" value="periostin" cy:type="String"/>
+<att type="string" name="name" value="periostin" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="proCI" id="82">
+<att type="string" name="shared name" value="proCI" cy:type="String"/>
+<att type="string" name="canonicalName" value="proCI" cy:type="String"/>
+<att type="string" name="name" value="proCI" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="proCIII" id="83">
+<att type="string" name="shared name" value="proCIII" cy:type="String"/>
+<att type="string" name="canonicalName" value="proCIII" cy:type="String"/>
+<att type="string" name="name" value="proCIII" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="B3int" id="84">
+<att type="string" name="shared name" value="B3int" cy:type="String"/>
+<att type="string" name="canonicalName" value="B3int" cy:type="String"/>
+<att type="string" name="name" value="B3int" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="Src" id="85">
+<att type="string" name="shared name" value="Src" cy:type="String"/>
+<att type="string" name="canonicalName" value="Src" cy:type="String"/>
+<att type="string" name="name" value="Src" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="Grb2" id="86">
+<att type="string" name="shared name" value="Grb2" cy:type="String"/>
+<att type="string" name="canonicalName" value="Grb2" cy:type="String"/>
+<att type="string" name="name" value="Grb2" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="p130Cas" id="87">
+<att type="string" name="shared name" value="p130Cas" cy:type="String"/>
+<att type="string" name="canonicalName" value="p130Cas" cy:type="String"/>
+<att type="string" name="name" value="p130Cas" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="YAP" id="88">
+<att type="string" name="shared name" value="YAP" cy:type="String"/>
+<att type="string" name="canonicalName" value="YAP" cy:type="String"/>
+<att type="string" name="name" value="YAP" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="MRTF" id="89">
+<att type="string" name="shared name" value="MRTF" cy:type="String"/>
+<att type="string" name="canonicalName" value="MRTF" cy:type="String"/>
+<att type="string" name="name" value="MRTF" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="Gactin" id="90">
+<att type="string" name="shared name" value="Gactin" cy:type="String"/>
+<att type="string" name="canonicalName" value="Gactin" cy:type="String"/>
+<att type="string" name="name" value="Gactin" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="TNC" id="91">
+<att type="string" name="shared name" value="TNC" cy:type="String"/>
+<att type="string" name="canonicalName" value="TNC" cy:type="String"/>
+<att type="string" name="name" value="TNC" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="mTORC1" id="92">
+<att type="string" name="shared name" value="mTORC1" cy:type="String"/>
+<att type="string" name="canonicalName" value="mTORC1" cy:type="String"/>
+<att type="string" name="name" value="mTORC1" cy:type="String"/>
+<att type="string" name="Type" value="complex" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="mTORC2" id="93">
+<att type="string" name="shared name" value="mTORC2" cy:type="String"/>
+<att type="string" name="canonicalName" value="mTORC2" cy:type="String"/>
+<att type="string" name="name" value="mTORC2" cy:type="String"/>
+<att type="string" name="Type" value="complex" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="p70S6K" id="94">
+<att type="string" name="shared name" value="p70S6K" cy:type="String"/>
+<att type="string" name="canonicalName" value="p70S6K" cy:type="String"/>
+<att type="string" name="name" value="p70S6K" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="EBP1" id="95">
+<att type="string" name="shared name" value="EBP1" cy:type="String"/>
+<att type="string" name="canonicalName" value="EBP1" cy:type="String"/>
+<att type="string" name="name" value="EBP1" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="syndecan4" id="96">
+<att type="string" name="shared name" value="syndecan4" cy:type="String"/>
+<att type="string" name="canonicalName" value="syndecan4" cy:type="String"/>
+<att type="string" name="name" value="syndecan4" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="proMMP3" id="97">
+<att type="string" name="shared name" value="proMMP3" cy:type="String"/>
+<att type="string" name="canonicalName" value="proMMP3" cy:type="String"/>
+<att type="string" name="name" value="proMMP3" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="proMMP8" id="98">
+<att type="string" name="shared name" value="proMMP8" cy:type="String"/>
+<att type="string" name="canonicalName" value="proMMP8" cy:type="String"/>
+<att type="string" name="name" value="proMMP8" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="proMMP12" id="99">
+<att type="string" name="shared name" value="proMMP12" cy:type="String"/>
+<att type="string" name="canonicalName" value="proMMP12" cy:type="String"/>
+<att type="string" name="name" value="proMMP12" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="thrombospondin4" id="100">
+<att type="string" name="shared name" value="thrombospondin4" cy:type="String"/>
+<att type="string" name="canonicalName" value="thrombospondin4" cy:type="String"/>
+<att type="string" name="name" value="thrombospondin4" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="osteopontin" id="101">
+<att type="string" name="shared name" value="osteopontin" cy:type="String"/>
+<att type="string" name="canonicalName" value="osteopontin" cy:type="String"/>
+<att type="string" name="name" value="osteopontin" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="contractility" id="102">
+<att type="string" name="shared name" value="contractility" cy:type="String"/>
+<att type="string" name="canonicalName" value="contractility" cy:type="String"/>
+<att type="string" name="name" value="contractility" cy:type="String"/>
+<att type="string" name="Type" value="event" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="RhoGEF" id="103">
+<att type="string" name="shared name" value="RhoGEF" cy:type="String"/>
+<att type="string" name="canonicalName" value="RhoGEF" cy:type="String"/>
+<att type="string" name="name" value="RhoGEF" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="RhoGDI" id="104">
+<att type="string" name="shared name" value="RhoGDI" cy:type="String"/>
+<att type="string" name="canonicalName" value="RhoGDI" cy:type="String"/>
+<att type="string" name="name" value="RhoGDI" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="talin" id="105">
+<att type="string" name="shared name" value="talin" cy:type="String"/>
+<att type="string" name="canonicalName" value="talin" cy:type="String"/>
+<att type="string" name="name" value="talin" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="vinculin" id="106">
+<att type="string" name="shared name" value="vinculin" cy:type="String"/>
+<att type="string" name="canonicalName" value="vinculin" cy:type="String"/>
+<att type="string" name="name" value="vinculin" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="paxillin" id="107">
+<att type="string" name="shared name" value="paxillin" cy:type="String"/>
+<att type="string" name="canonicalName" value="paxillin" cy:type="String"/>
+<att type="string" name="name" value="paxillin" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="MLC" id="108">
+<att type="string" name="shared name" value="MLC" cy:type="String"/>
+<att type="string" name="canonicalName" value="MLC" cy:type="String"/>
+<att type="string" name="name" value="MLC" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="AT2R" id="109">
+<att type="string" name="shared name" value="AT2R" cy:type="String"/>
+<att type="string" name="canonicalName" value="AT2R" cy:type="String"/>
+<att type="string" name="name" value="AT2R" cy:type="String"/>
+<att type="string" name="Type" value="protein" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="RECTANGLE" h="30.0" w="70.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn11" id="110">
+<att type="string" name="shared name" value="rcn11" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn11" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn12" id="111">
+<att type="string" name="shared name" value="rcn12" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn12" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn13" id="112">
+<att type="string" name="shared name" value="rcn13" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn13" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn14" id="113">
+<att type="string" name="shared name" value="rcn14" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn14" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn27" id="114">
+<att type="string" name="shared name" value="rcn27" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn27" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn28" id="115">
+<att type="string" name="shared name" value="rcn28" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn28" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn29" id="116">
+<att type="string" name="shared name" value="rcn29" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn29" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn32" id="117">
+<att type="string" name="shared name" value="rcn32" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn32" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn33" id="118">
+<att type="string" name="shared name" value="rcn33" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn33" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn36" id="119">
+<att type="string" name="shared name" value="rcn36" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn36" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn40" id="120">
+<att type="string" name="shared name" value="rcn40" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn40" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn43" id="121">
+<att type="string" name="shared name" value="rcn43" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn43" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn45" id="122">
+<att type="string" name="shared name" value="rcn45" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn45" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn51" id="123">
+<att type="string" name="shared name" value="rcn51" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn51" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn60" id="124">
+<att type="string" name="shared name" value="rcn60" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn60" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn61" id="125">
+<att type="string" name="shared name" value="rcn61" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn61" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn65" id="126">
+<att type="string" name="shared name" value="rcn65" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn65" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn76" id="127">
+<att type="string" name="shared name" value="rcn76" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn76" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn77" id="128">
+<att type="string" name="shared name" value="rcn77" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn77" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn83" id="129">
+<att type="string" name="shared name" value="rcn83" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn83" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn103" id="130">
+<att type="string" name="shared name" value="rcn103" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn103" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn106" id="131">
+<att type="string" name="shared name" value="rcn106" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn106" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn107" id="132">
+<att type="string" name="shared name" value="rcn107" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn107" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn111" id="133">
+<att type="string" name="shared name" value="rcn111" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn111" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn121" id="134">
+<att type="string" name="shared name" value="rcn121" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn121" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn123" id="135">
+<att type="string" name="shared name" value="rcn123" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn123" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn125" id="136">
+<att type="string" name="shared name" value="rcn125" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn125" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn127" id="137">
+<att type="string" name="shared name" value="rcn127" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn127" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn128" id="138">
+<att type="string" name="shared name" value="rcn128" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn128" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn131" id="139">
+<att type="string" name="shared name" value="rcn131" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn131" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn135" id="140">
+<att type="string" name="shared name" value="rcn135" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn135" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn136" id="141">
+<att type="string" name="shared name" value="rcn136" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn136" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn139" id="142">
+<att type="string" name="shared name" value="rcn139" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn139" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn143" id="143">
+<att type="string" name="shared name" value="rcn143" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn143" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn148" id="144">
+<att type="string" name="shared name" value="rcn148" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn148" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn149" id="145">
+<att type="string" name="shared name" value="rcn149" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn149" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn152" id="146">
+<att type="string" name="shared name" value="rcn152" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn152" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn153" id="147">
+<att type="string" name="shared name" value="rcn153" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn153" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn154" id="148">
+<att type="string" name="shared name" value="rcn154" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn154" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn158" id="149">
+<att type="string" name="shared name" value="rcn158" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn158" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn159" id="150">
+<att type="string" name="shared name" value="rcn159" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn159" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn160" id="151">
+<att type="string" name="shared name" value="rcn160" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn160" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn163" id="152">
+<att type="string" name="shared name" value="rcn163" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn163" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn164" id="153">
+<att type="string" name="shared name" value="rcn164" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn164" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn165" id="154">
+<att type="string" name="shared name" value="rcn165" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn165" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<node label="rcn172" id="155">
+<att type="string" name="shared name" value="rcn172" cy:type="String"/>
+<att type="string" name="canonicalName" value="AND" cy:type="String"/>
+<att type="string" name="name" value="rcn172" cy:type="String"/>
+<att type="string" name="Type" value="connector" cy:type="String"/>
+<att type="string" name="HyperEdge.EntityType" value="RegularNode" cy:type="String"/>
+<graphics type="ELLIPSE" h="28.0" w="28.0" fill="#FFFFFF" width="3.0" outline="#000000">
+</graphics>
+</node>
+<edge label="rcn11	(1)	TGFB" source="110" target="19">
+<att type="string" name="canonicalName" value="rcn11	(1)	TGFB"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="latentTGFB	(1)	rcn11" source="23" target="110">
+<att type="string" name="canonicalName" value="latentTGFB	(1)	rcn11"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="proMMP9	(1)	rcn11" source="79" target="110">
+<att type="string" name="canonicalName" value="proMMP9	(1)	rcn11"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn12	(1)	TGFB" source="111" target="19">
+<att type="string" name="canonicalName" value="rcn12	(1)	TGFB"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="latentTGFB	(1)	rcn12" source="23" target="111">
+<att type="string" name="canonicalName" value="latentTGFB	(1)	rcn12"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="proMMP2	(1)	rcn12" source="78" target="111">
+<att type="string" name="canonicalName" value="proMMP2	(1)	rcn12"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn13	(1)	AngII" source="112" target="1">
+<att type="string" name="canonicalName" value="rcn13	(1)	AngII"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AGT	(1)	rcn13" source="3" target="112">
+<att type="string" name="canonicalName" value="AGT	(1)	rcn13"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="ACE	(1)	rcn13" source="4" target="112">
+<att type="string" name="canonicalName" value="ACE	(1)	rcn13"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn14	(1)	IL6" source="113" target="38">
+<att type="string" name="canonicalName" value="rcn14	(1)	IL6"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="CREB	(1)	rcn14" source="17" target="113">
+<att type="string" name="canonicalName" value="CREB	(1)	rcn14"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="CBP	(1)	rcn14" source="18" target="113">
+<att type="string" name="canonicalName" value="CBP	(1)	rcn14"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="NFKB	(1)	IL6" source="45" target="38">
+<att type="string" name="canonicalName" value="NFKB	(1)	IL6"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AP1	(1)	IL6" source="72" target="38">
+<att type="string" name="canonicalName" value="AP1	(1)	IL6"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AP1	(1)	ET1" source="72" target="7">
+<att type="string" name="canonicalName" value="AP1	(1)	ET1"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AngII	(1)	AT1R" source="1" target="2">
+<att type="string" name="canonicalName" value="AngII	(1)	AT1R"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AT1R	(1)	NOX" source="2" target="5">
+<att type="string" name="canonicalName" value="AT1R	(1)	NOX"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="NOX	(1)	ROS" source="5" target="6">
+<att type="string" name="canonicalName" value="NOX	(1)	ROS"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="IL6	(1)	gp130" source="38" target="39">
+<att type="string" name="canonicalName" value="IL6	(1)	gp130"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="ROS	(1)	p38" source="6" target="48">
+<att type="string" name="canonicalName" value="ROS	(1)	p38"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="ROS	(1)	JNK" source="6" target="53">
+<att type="string" name="canonicalName" value="ROS	(1)	JNK"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="IL1RI	(1)	NFKB" source="42" target="45">
+<att type="string" name="canonicalName" value="IL1RI	(1)	NFKB"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="gp130	(1)	STAT" source="39" target="40">
+<att type="string" name="canonicalName" value="gp130	(1)	STAT"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="TNFaR	(1)	PI3K" source="44" target="46">
+<att type="string" name="canonicalName" value="TNFaR	(1)	PI3K"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn27	(1)	AGT" source="114" target="3">
+<att type="string" name="canonicalName" value="rcn27	(1)	AGT"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AT1R	(-1)	rcn27" source="2" target="114">
+<att type="string" name="canonicalName" value="AT1R	(-1)	rcn27"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="p38	(1)	rcn27" source="48" target="114">
+<att type="string" name="canonicalName" value="p38	(1)	rcn27"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="JNK	(-1)	rcn27" source="53" target="114">
+<att type="string" name="canonicalName" value="JNK	(-1)	rcn27"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn28	(1)	smad3" source="115" target="21">
+<att type="string" name="canonicalName" value="rcn28	(1)	smad3"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="TGFB1R	(1)	rcn28" source="20" target="115">
+<att type="string" name="canonicalName" value="TGFB1R	(1)	rcn28"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="smad7	(-1)	rcn28" source="22" target="115">
+<att type="string" name="canonicalName" value="smad7	(-1)	rcn28"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="PKG	(-1)	rcn28" source="30" target="115">
+<att type="string" name="canonicalName" value="PKG	(-1)	rcn28"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn29	(1)	CTGF" source="116" target="67">
+<att type="string" name="canonicalName" value="rcn29	(1)	CTGF"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="CBP	(1)	rcn29" source="18" target="116">
+<att type="string" name="canonicalName" value="CBP	(1)	rcn29"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="smad3	(1)	rcn29" source="21" target="116">
+<att type="string" name="canonicalName" value="smad3	(1)	rcn29"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="ERK	(1)	rcn29" source="58" target="116">
+<att type="string" name="canonicalName" value="ERK	(1)	rcn29"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="STAT	(1)	proMMP2" source="40" target="78">
+<att type="string" name="canonicalName" value="STAT	(1)	proMMP2"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="STAT	(1)	proMMP9" source="40" target="79">
+<att type="string" name="canonicalName" value="STAT	(1)	proMMP9"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn32	(1)	periostin" source="117" target="81">
+<att type="string" name="canonicalName" value="rcn32	(1)	periostin"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="CBP	(1)	rcn32" source="18" target="117">
+<att type="string" name="canonicalName" value="CBP	(1)	rcn32"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="smad3	(1)	rcn32" source="21" target="117">
+<att type="string" name="canonicalName" value="smad3	(1)	rcn32"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn33	(1)	periostin" source="118" target="81">
+<att type="string" name="canonicalName" value="rcn33	(1)	periostin"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="CREB	(1)	rcn33" source="17" target="118">
+<att type="string" name="canonicalName" value="CREB	(1)	rcn33"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="CBP	(1)	rcn33" source="18" target="118">
+<att type="string" name="canonicalName" value="CBP	(1)	rcn33"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="ERK	(1)	NFKB" source="58" target="45">
+<att type="string" name="canonicalName" value="ERK	(1)	NFKB"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="p38	(1)	NFKB" source="48" target="45">
+<att type="string" name="canonicalName" value="p38	(1)	NFKB"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn36	(1)	proMMP1" source="119" target="77">
+<att type="string" name="canonicalName" value="rcn36	(1)	proMMP1"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="smad3	(-1)	rcn36" source="21" target="119">
+<att type="string" name="canonicalName" value="smad3	(-1)	rcn36"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="NFKB	(1)	rcn36" source="45" target="119">
+<att type="string" name="canonicalName" value="NFKB	(1)	rcn36"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AP1	(1)	rcn36" source="72" target="119">
+<att type="string" name="canonicalName" value="AP1	(1)	rcn36"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="ETAR	(1)	ROS" source="8" target="6">
+<att type="string" name="canonicalName" value="ETAR	(1)	ROS"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="ERK	(1)	AP1" source="58" target="72">
+<att type="string" name="canonicalName" value="ERK	(1)	AP1"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AP1	(1)	proMMP2" source="72" target="78">
+<att type="string" name="canonicalName" value="AP1	(1)	proMMP2"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn40	(1)	proMMP9" source="120" target="79">
+<att type="string" name="canonicalName" value="rcn40	(1)	proMMP9"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="NFKB	(1)	rcn40" source="45" target="120">
+<att type="string" name="canonicalName" value="NFKB	(1)	rcn40"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AP1	(1)	rcn40" source="72" target="120">
+<att type="string" name="canonicalName" value="AP1	(1)	rcn40"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AP1	(1)	TIMP1" source="72" target="73">
+<att type="string" name="canonicalName" value="AP1	(1)	TIMP1"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AP1	(1)	TIMP2" source="72" target="74">
+<att type="string" name="canonicalName" value="AP1	(1)	TIMP2"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn43	(1)	B1int" source="121" target="32">
+<att type="string" name="canonicalName" value="rcn43	(1)	B1int"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="PKC	(1)	rcn43" source="10" target="121">
+<att type="string" name="canonicalName" value="PKC	(1)	rcn43"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="tension	(1)	rcn43" source="31" target="121">
+<att type="string" name="canonicalName" value="tension	(1)	rcn43"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="cAMP	(1)	PKA" source="15" target="16">
+<att type="string" name="canonicalName" value="cAMP	(1)	PKA"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn45	(1)	fibronectin" source="122" target="80">
+<att type="string" name="canonicalName" value="rcn45	(1)	fibronectin"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="CBP	(1)	rcn45" source="18" target="122">
+<att type="string" name="canonicalName" value="CBP	(1)	rcn45"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="smad3	(1)	rcn45" source="21" target="122">
+<att type="string" name="canonicalName" value="smad3	(1)	rcn45"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="smad3	(-1)	CBP" source="21" target="18">
+<att type="string" name="canonicalName" value="smad3	(-1)	CBP"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="CREB	(-1)	CBP" source="17" target="18">
+<att type="string" name="canonicalName" value="CREB	(-1)	CBP"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="tension	(1)	B1int" source="31" target="32">
+<att type="string" name="canonicalName" value="tension	(1)	B1int"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="NFAT	(1)	EDAFN" source="37" target="70">
+<att type="string" name="canonicalName" value="NFAT	(1)	EDAFN"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="TGFB1R	(1)	ACE" source="20" target="4">
+<att type="string" name="canonicalName" value="TGFB1R	(1)	ACE"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn51	(1)	TGFB1R" source="123" target="20">
+<att type="string" name="canonicalName" value="rcn51	(1)	TGFB1R"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="TGFB	(1)	rcn51" source="19" target="123">
+<att type="string" name="canonicalName" value="TGFB	(1)	rcn51"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="BAMBI	(-1)	rcn51" source="24" target="123">
+<att type="string" name="canonicalName" value="BAMBI	(-1)	rcn51"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AP1	(1)	proliferation" source="72" target="68">
+<att type="string" name="canonicalName" value="AP1	(1)	proliferation"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="PKA	(1)	CREB" source="16" target="17">
+<att type="string" name="canonicalName" value="PKA	(1)	CREB"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="CREB	(1)	proliferation" source="17" target="68">
+<att type="string" name="canonicalName" value="CREB	(1)	proliferation"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="NE	(1)	BAR" source="12" target="13">
+<att type="string" name="canonicalName" value="NE	(1)	BAR"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="ET1	(1)	ETAR" source="7" target="8">
+<att type="string" name="canonicalName" value="ET1	(1)	ETAR"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="CTGF	(1)	proliferation" source="67" target="68">
+<att type="string" name="canonicalName" value="CTGF	(1)	proliferation"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="IL1	(1)	IL1RI" source="41" target="42">
+<att type="string" name="canonicalName" value="IL1	(1)	IL1RI"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="PKC	(1)	proliferation" source="10" target="68">
+<att type="string" name="canonicalName" value="PKC	(1)	proliferation"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn60	(1)	proCI" source="124" target="82">
+<att type="string" name="canonicalName" value="rcn60	(1)	proCI"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="CBP	(1)	rcn60" source="18" target="124">
+<att type="string" name="canonicalName" value="CBP	(1)	rcn60"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="smad3	(1)	rcn60" source="21" target="124">
+<att type="string" name="canonicalName" value="smad3	(1)	rcn60"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="epac	(-1)	rcn60" source="63" target="124">
+<att type="string" name="canonicalName" value="epac	(-1)	rcn60"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn61	(1)	proCIII" source="125" target="83">
+<att type="string" name="canonicalName" value="rcn61	(1)	proCIII"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="CBP	(1)	rcn61" source="18" target="125">
+<att type="string" name="canonicalName" value="CBP	(1)	rcn61"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="smad3	(1)	rcn61" source="21" target="125">
+<att type="string" name="canonicalName" value="smad3	(1)	rcn61"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="epac	(-1)	rcn61" source="63" target="125">
+<att type="string" name="canonicalName" value="epac	(-1)	rcn61"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AP1	(1)	proMMP14" source="72" target="76">
+<att type="string" name="canonicalName" value="AP1	(1)	proMMP14"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="PDGF	(1)	PDGFR" source="25" target="26">
+<att type="string" name="canonicalName" value="PDGF	(1)	PDGFR"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="BAR	(1)	AC" source="13" target="14">
+<att type="string" name="canonicalName" value="BAR	(1)	AC"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn65	(1)	AC" source="126" target="14">
+<att type="string" name="canonicalName" value="rcn65	(1)	AC"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AT1R	(1)	rcn65" source="2" target="126">
+<att type="string" name="canonicalName" value="AT1R	(1)	rcn65"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="BAR	(1)	rcn65" source="13" target="126">
+<att type="string" name="canonicalName" value="BAR	(1)	rcn65"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AC	(1)	cAMP" source="14" target="15">
+<att type="string" name="canonicalName" value="AC	(1)	cAMP"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="FAK	(1)	MEKK1" source="62" target="56">
+<att type="string" name="canonicalName" value="FAK	(1)	MEKK1"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AP1	(1)	latentTGFB" source="72" target="23">
+<att type="string" name="canonicalName" value="AP1	(1)	latentTGFB"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="cAMP	(1)	epac" source="15" target="63">
+<att type="string" name="canonicalName" value="cAMP	(1)	epac"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Rho	(1)	ROCK" source="33" target="34">
+<att type="string" name="canonicalName" value="Rho	(1)	ROCK"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="TNFa	(1)	TNFaR" source="43" target="44">
+<att type="string" name="canonicalName" value="TNFa	(1)	TNFaR"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="NP	(1)	NPRA" source="27" target="28">
+<att type="string" name="canonicalName" value="NP	(1)	NPRA"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="NPRA	(1)	cGMP" source="28" target="29">
+<att type="string" name="canonicalName" value="NPRA	(1)	cGMP"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="cGMP	(1)	PKG" source="29" target="30">
+<att type="string" name="canonicalName" value="cGMP	(1)	PKG"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Ras	(1)	Raf" source="59" target="60">
+<att type="string" name="canonicalName" value="Ras	(1)	Raf"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn76	(1)	MEK1" source="127" target="61">
+<att type="string" name="canonicalName" value="rcn76	(1)	MEK1"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="ERK	(-1)	rcn76" source="58" target="127">
+<att type="string" name="canonicalName" value="ERK	(-1)	rcn76"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Raf	(1)	rcn76" source="60" target="127">
+<att type="string" name="canonicalName" value="Raf	(1)	rcn76"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn77	(1)	ERK" source="128" target="58">
+<att type="string" name="canonicalName" value="rcn77	(1)	ERK"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="PP1	(-1)	rcn77" source="52" target="128">
+<att type="string" name="canonicalName" value="PP1	(-1)	rcn77"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="MEK1	(1)	rcn77" source="61" target="128">
+<att type="string" name="canonicalName" value="MEK1	(1)	rcn77"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="p38	(1)	PP1" source="48" target="52">
+<att type="string" name="canonicalName" value="p38	(1)	PP1"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="MKK3	(1)	p38" source="51" target="48">
+<att type="string" name="canonicalName" value="MKK3	(1)	p38"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="TGFB1R	(1)	TRAF" source="20" target="49">
+<att type="string" name="canonicalName" value="TGFB1R	(1)	TRAF"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Rac1	(1)	MEKK1" source="55" target="56">
+<att type="string" name="canonicalName" value="Rac1	(1)	MEKK1"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="MEKK1	(1)	MKK4" source="56" target="57">
+<att type="string" name="canonicalName" value="MEKK1	(1)	MKK4"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn83	(1)	JNK" source="129" target="53">
+<att type="string" name="canonicalName" value="rcn83	(1)	JNK"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="NFKB	(-1)	rcn83" source="45" target="129">
+<att type="string" name="canonicalName" value="NFKB	(-1)	rcn83"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="MKK4	(1)	rcn83" source="57" target="129">
+<att type="string" name="canonicalName" value="MKK4	(1)	rcn83"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="PDGFR	(1)	abl" source="26" target="54">
+<att type="string" name="canonicalName" value="PDGFR	(1)	abl"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="abl	(1)	Rac1" source="54" target="55">
+<att type="string" name="canonicalName" value="abl	(1)	Rac1"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="JNK	(1)	cmyc" source="53" target="66">
+<att type="string" name="canonicalName" value="JNK	(1)	cmyc"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="cmyc	(1)	proliferation" source="66" target="68">
+<att type="string" name="canonicalName" value="cmyc	(1)	proliferation"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="TNFaR	(1)	TRAF" source="44" target="49">
+<att type="string" name="canonicalName" value="TNFaR	(1)	TRAF"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="TRAF	(1)	ASK1" source="49" target="50">
+<att type="string" name="canonicalName" value="TRAF	(1)	ASK1"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="ASK1	(1)	MKK3" source="50" target="51">
+<att type="string" name="canonicalName" value="ASK1	(1)	MKK3"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="ASK1	(1)	MKK4" source="50" target="57">
+<att type="string" name="canonicalName" value="ASK1	(1)	MKK4"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="IL1RI	(1)	ASK1" source="42" target="50">
+<att type="string" name="canonicalName" value="IL1RI	(1)	ASK1"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="smad3	(1)	PAI1" source="21" target="75">
+<att type="string" name="canonicalName" value="smad3	(1)	PAI1"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="NFKB	(1)	proMMP14" source="45" target="76">
+<att type="string" name="canonicalName" value="NFKB	(1)	proMMP14"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Ras	(1)	p38" source="59" target="48">
+<att type="string" name="canonicalName" value="Ras	(1)	p38"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="TGFB1R	(1)	PI3K" source="20" target="46">
+<att type="string" name="canonicalName" value="TGFB1R	(1)	PI3K"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="PDGFR	(1)	PI3K" source="26" target="46">
+<att type="string" name="canonicalName" value="PDGFR	(1)	PI3K"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="FAK	(1)	PI3K" source="62" target="46">
+<att type="string" name="canonicalName" value="FAK	(1)	PI3K"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="TGFB1R	(1)	NOX" source="20" target="5">
+<att type="string" name="canonicalName" value="TGFB1R	(1)	NOX"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Akt	(1)	NFKB" source="47" target="45">
+<att type="string" name="canonicalName" value="Akt	(1)	NFKB"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="NFKB	(1)	fibronectin" source="45" target="80">
+<att type="string" name="canonicalName" value="NFKB	(1)	fibronectin"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="JNK	(1)	AP1" source="53" target="72">
+<att type="string" name="canonicalName" value="JNK	(1)	AP1"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn103	(1)	BAMBI" source="130" target="24">
+<att type="string" name="canonicalName" value="rcn103	(1)	BAMBI"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="TGFB	(1)	rcn103" source="19" target="130">
+<att type="string" name="canonicalName" value="TGFB	(1)	rcn103"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="IL1RI	(1)	rcn103" source="42" target="130">
+<att type="string" name="canonicalName" value="IL1RI	(1)	rcn103"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="STAT	(1)	smad7" source="40" target="22">
+<att type="string" name="canonicalName" value="STAT	(1)	smad7"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="SRF	(1)	proCI" source="69" target="82">
+<att type="string" name="canonicalName" value="SRF	(1)	proCI"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn106	(1)	p38" source="131" target="48">
+<att type="string" name="canonicalName" value="rcn106	(1)	p38"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Rho	(1)	rcn106" source="33" target="131">
+<att type="string" name="canonicalName" value="Rho	(1)	rcn106"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Rac1	(-1)	rcn106" source="55" target="131">
+<att type="string" name="canonicalName" value="Rac1	(-1)	rcn106"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn107	(1)	JNK" source="132" target="53">
+<att type="string" name="canonicalName" value="rcn107	(1)	JNK"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Rho	(-1)	rcn107" source="33" target="132">
+<att type="string" name="canonicalName" value="Rho	(-1)	rcn107"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="MKK4	(1)	rcn107" source="57" target="132">
+<att type="string" name="canonicalName" value="MKK4	(1)	rcn107"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="SRF	(1)	proCIII" source="69" target="83">
+<att type="string" name="canonicalName" value="SRF	(1)	proCIII"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="calcineurin	(1)	NFAT" source="36" target="37">
+<att type="string" name="canonicalName" value="calcineurin	(1)	NFAT"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AT1R	(1)	Ras" source="2" target="59">
+<att type="string" name="canonicalName" value="AT1R	(1)	Ras"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn111	(1)	aSMA" source="133" target="71">
+<att type="string" name="canonicalName" value="rcn111	(1)	aSMA"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="CBP	(1)	rcn111" source="18" target="133">
+<att type="string" name="canonicalName" value="CBP	(1)	rcn111"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="smad3	(1)	rcn111" source="21" target="133">
+<att type="string" name="canonicalName" value="smad3	(1)	rcn111"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="SRF	(1)	aSMA" source="69" target="71">
+<att type="string" name="canonicalName" value="SRF	(1)	aSMA"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="ETAR	(1)	DAG" source="8" target="9">
+<att type="string" name="canonicalName" value="ETAR	(1)	DAG"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AT1R	(1)	DAG" source="2" target="9">
+<att type="string" name="canonicalName" value="AT1R	(1)	DAG"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="DAG	(1)	TRPC" source="9" target="11">
+<att type="string" name="canonicalName" value="DAG	(1)	TRPC"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="TRPC	(1)	Ca" source="11" target="35">
+<att type="string" name="canonicalName" value="TRPC	(1)	Ca"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Ca	(1)	calcineurin" source="35" target="36">
+<att type="string" name="canonicalName" value="Ca	(1)	calcineurin"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="TGFB1R	(1)	Rho" source="20" target="33">
+<att type="string" name="canonicalName" value="TGFB1R	(1)	Rho"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="B3int	(1)	Src" source="84" target="85">
+<att type="string" name="canonicalName" value="B3int	(1)	Src"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="B1int	(1)	FAK" source="32" target="62">
+<att type="string" name="canonicalName" value="B1int	(1)	FAK"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn121	(1)	Grb2" source="134" target="86">
+<att type="string" name="canonicalName" value="rcn121	(1)	Grb2"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="FAK	(1)	rcn121" source="62" target="134">
+<att type="string" name="canonicalName" value="FAK	(1)	rcn121"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Src	(1)	rcn121" source="85" target="134">
+<att type="string" name="canonicalName" value="Src	(1)	rcn121"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Grb2	(1)	Ras" source="86" target="59">
+<att type="string" name="canonicalName" value="Grb2	(1)	Ras"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn123	(1)	RhoGEF" source="135" target="103">
+<att type="string" name="canonicalName" value="rcn123	(1)	RhoGEF"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="FAK	(1)	rcn123" source="62" target="135">
+<att type="string" name="canonicalName" value="FAK	(1)	rcn123"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Src	(1)	rcn123" source="85" target="135">
+<att type="string" name="canonicalName" value="Src	(1)	rcn123"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Src	(-1)	RhoGDI" source="85" target="104">
+<att type="string" name="canonicalName" value="Src	(-1)	RhoGDI"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn125	(1)	p130Cas" source="136" target="87">
+<att type="string" name="canonicalName" value="rcn125	(1)	p130Cas"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="FAK	(1)	rcn125" source="62" target="136">
+<att type="string" name="canonicalName" value="FAK	(1)	rcn125"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Src	(1)	rcn125" source="85" target="136">
+<att type="string" name="canonicalName" value="Src	(1)	rcn125"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="PDGFR	(1)	Src" source="26" target="85">
+<att type="string" name="canonicalName" value="PDGFR	(1)	Src"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn127	(1)	p130Cas" source="137" target="87">
+<att type="string" name="canonicalName" value="rcn127	(1)	p130Cas"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="tension	(1)	rcn127" source="31" target="137">
+<att type="string" name="canonicalName" value="tension	(1)	rcn127"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Src	(1)	rcn127" source="85" target="137">
+<att type="string" name="canonicalName" value="Src	(1)	rcn127"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn128	(1)	Rac1" source="138" target="55">
+<att type="string" name="canonicalName" value="rcn128	(1)	Rac1"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="abl	(1)	rcn128" source="54" target="138">
+<att type="string" name="canonicalName" value="abl	(1)	rcn128"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="p130Cas	(1)	rcn128" source="87" target="138">
+<att type="string" name="canonicalName" value="p130Cas	(1)	rcn128"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Factin	(1)	YAP" source="64" target="88">
+<att type="string" name="canonicalName" value="Factin	(1)	YAP"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="PKA	(1)	RhoGDI" source="16" target="104">
+<att type="string" name="canonicalName" value="PKA	(1)	RhoGDI"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn131	(1)	Rho" source="139" target="33">
+<att type="string" name="canonicalName" value="rcn131	(1)	Rho"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="PKG	(-1)	rcn131" source="30" target="139">
+<att type="string" name="canonicalName" value="PKG	(-1)	rcn131"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="RhoGEF	(1)	rcn131" source="103" target="139">
+<att type="string" name="canonicalName" value="RhoGEF	(1)	rcn131"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="RhoGDI	(-1)	rcn131" source="104" target="139">
+<att type="string" name="canonicalName" value="RhoGDI	(-1)	rcn131"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="YAP	(1)	CTGF" source="88" target="67">
+<att type="string" name="canonicalName" value="YAP	(1)	CTGF"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="syndecan4	(1)	PKC" source="96" target="10">
+<att type="string" name="canonicalName" value="syndecan4	(1)	PKC"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="PKC	(-1)	RhoGDI" source="10" target="104">
+<att type="string" name="canonicalName" value="PKC	(-1)	RhoGDI"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn135	(1)	MRTF" source="140" target="89">
+<att type="string" name="canonicalName" value="rcn135	(1)	MRTF"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="NFAT	(1)	rcn135" source="37" target="140">
+<att type="string" name="canonicalName" value="NFAT	(1)	rcn135"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Gactin	(-1)	rcn135" source="90" target="140">
+<att type="string" name="canonicalName" value="Gactin	(-1)	rcn135"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn136	(1)	Factin" source="141" target="64">
+<att type="string" name="canonicalName" value="rcn136	(1)	Factin"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="ROCK	(1)	rcn136" source="34" target="141">
+<att type="string" name="canonicalName" value="ROCK	(1)	rcn136"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Gactin	(1)	rcn136" source="90" target="141">
+<att type="string" name="canonicalName" value="Gactin	(1)	rcn136"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Factin	(-1)	Gactin" source="64" target="90">
+<att type="string" name="canonicalName" value="Factin	(-1)	Gactin"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="MRTF	(1)	SRF" source="89" target="69">
+<att type="string" name="canonicalName" value="MRTF	(1)	SRF"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn139	(1)	syndecan4" source="142" target="96">
+<att type="string" name="canonicalName" value="rcn139	(1)	syndecan4"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="tension	(1)	rcn139" source="31" target="142">
+<att type="string" name="canonicalName" value="tension	(1)	rcn139"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="TNC	(-1)	rcn139" source="91" target="142">
+<att type="string" name="canonicalName" value="TNC	(-1)	rcn139"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Akt	(1)	mTORC1" source="47" target="92">
+<att type="string" name="canonicalName" value="Akt	(1)	mTORC1"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="mTORC1	(1)	p70S6K" source="92" target="94">
+<att type="string" name="canonicalName" value="mTORC1	(1)	p70S6K"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="mTORC1	(-1)	EBP1" source="92" target="95">
+<att type="string" name="canonicalName" value="mTORC1	(-1)	EBP1"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn143	(1)	proliferation" source="143" target="68">
+<att type="string" name="canonicalName" value="rcn143	(1)	proliferation"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="p70S6K	(1)	rcn143" source="94" target="143">
+<att type="string" name="canonicalName" value="p70S6K	(1)	rcn143"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="EBP1	(-1)	rcn143" source="95" target="143">
+<att type="string" name="canonicalName" value="EBP1	(-1)	rcn143"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Akt	(1)	smad3" source="47" target="21">
+<att type="string" name="canonicalName" value="Akt	(1)	smad3"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="NFKB	(1)	TNC" source="45" target="91">
+<att type="string" name="canonicalName" value="NFKB	(1)	TNC"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="MRTF	(1)	TNC" source="89" target="91">
+<att type="string" name="canonicalName" value="MRTF	(1)	TNC"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="p70S6K	(-1)	mTORC2" source="94" target="93">
+<att type="string" name="canonicalName" value="p70S6K	(-1)	mTORC2"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn148	(1)	Akt" source="144" target="47">
+<att type="string" name="canonicalName" value="rcn148	(1)	Akt"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="PI3K	(1)	rcn148" source="46" target="144">
+<att type="string" name="canonicalName" value="PI3K	(1)	rcn148"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="mTORC2	(1)	rcn148" source="93" target="144">
+<att type="string" name="canonicalName" value="mTORC2	(1)	rcn148"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn149	(1)	PKC" source="145" target="10">
+<att type="string" name="canonicalName" value="rcn149	(1)	PKC"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="DAG	(1)	rcn149" source="9" target="145">
+<att type="string" name="canonicalName" value="DAG	(1)	rcn149"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="mTORC2	(1)	rcn149" source="93" target="145">
+<att type="string" name="canonicalName" value="mTORC2	(1)	rcn149"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="YAP	(1)	PAI1" source="88" target="75">
+<att type="string" name="canonicalName" value="YAP	(1)	PAI1"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="smad3	(1)	thrombospondin4" source="21" target="100">
+<att type="string" name="canonicalName" value="smad3	(1)	thrombospondin4"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn152	(1)	B3int" source="146" target="84">
+<att type="string" name="canonicalName" value="rcn152	(1)	B3int"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="tension	(1)	rcn152" source="31" target="146">
+<att type="string" name="canonicalName" value="tension	(1)	rcn152"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="thrombospondin4	(-1)	rcn152" source="100" target="146">
+<att type="string" name="canonicalName" value="thrombospondin4	(-1)	rcn152"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn153	(1)	proMMP8" source="147" target="98">
+<att type="string" name="canonicalName" value="rcn153	(1)	proMMP8"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="smad3	(-1)	rcn153" source="21" target="147">
+<att type="string" name="canonicalName" value="smad3	(-1)	rcn153"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="NFKB	(1)	rcn153" source="45" target="147">
+<att type="string" name="canonicalName" value="NFKB	(1)	rcn153"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AP1	(1)	rcn153" source="72" target="147">
+<att type="string" name="canonicalName" value="AP1	(1)	rcn153"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn154	(1)	proMMP3" source="148" target="97">
+<att type="string" name="canonicalName" value="rcn154	(1)	proMMP3"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="smad3	(-1)	rcn154" source="21" target="148">
+<att type="string" name="canonicalName" value="smad3	(-1)	rcn154"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="NFKB	(1)	rcn154" source="45" target="148">
+<att type="string" name="canonicalName" value="NFKB	(1)	rcn154"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AP1	(1)	rcn154" source="72" target="148">
+<att type="string" name="canonicalName" value="AP1	(1)	rcn154"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AP1	(1)	osteopontin" source="72" target="101">
+<att type="string" name="canonicalName" value="AP1	(1)	osteopontin"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="osteopontin	(1)	B3int" source="101" target="84">
+<att type="string" name="canonicalName" value="osteopontin	(1)	B3int"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="CREB	(1)	proMMP12" source="17" target="99">
+<att type="string" name="canonicalName" value="CREB	(1)	proMMP12"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn158	(1)	smad7" source="149" target="22">
+<att type="string" name="canonicalName" value="rcn158	(1)	smad7"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AP1	(1)	rcn158" source="72" target="149">
+<att type="string" name="canonicalName" value="AP1	(1)	rcn158"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="YAP	(-1)	rcn158" source="88" target="149">
+<att type="string" name="canonicalName" value="YAP	(-1)	rcn158"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn159	(1)	paxillin" source="150" target="107">
+<att type="string" name="canonicalName" value="rcn159	(1)	paxillin"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="FAK	(1)	rcn159" source="62" target="150">
+<att type="string" name="canonicalName" value="FAK	(1)	rcn159"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Src	(1)	rcn159" source="85" target="150">
+<att type="string" name="canonicalName" value="Src	(1)	rcn159"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="MLC	(1)	rcn159" source="108" target="150">
+<att type="string" name="canonicalName" value="MLC	(1)	rcn159"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn160	(1)	FA" source="151" target="65">
+<att type="string" name="canonicalName" value="rcn160	(1)	FA"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="vinculin	(1)	rcn160" source="106" target="151">
+<att type="string" name="canonicalName" value="vinculin	(1)	rcn160"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="paxillin	(-1)	rcn160" source="107" target="151">
+<att type="string" name="canonicalName" value="paxillin	(-1)	rcn160"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="B1int	(1)	talin" source="32" target="105">
+<att type="string" name="canonicalName" value="B1int	(1)	talin"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="B3int	(1)	talin" source="84" target="105">
+<att type="string" name="canonicalName" value="B3int	(1)	talin"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn163	(1)	vinculin" source="152" target="106">
+<att type="string" name="canonicalName" value="rcn163	(1)	vinculin"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="tension	(1)	rcn163" source="31" target="152">
+<att type="string" name="canonicalName" value="tension	(1)	rcn163"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="talin	(1)	rcn163" source="105" target="152">
+<att type="string" name="canonicalName" value="talin	(1)	rcn163"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn164	(1)	contractility" source="153" target="102">
+<att type="string" name="canonicalName" value="rcn164	(1)	contractility"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="Factin	(1)	rcn164" source="64" target="153">
+<att type="string" name="canonicalName" value="Factin	(1)	rcn164"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="vinculin	(1)	rcn164" source="106" target="153">
+<att type="string" name="canonicalName" value="vinculin	(1)	rcn164"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="MLC	(1)	rcn164" source="108" target="153">
+<att type="string" name="canonicalName" value="MLC	(1)	rcn164"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn165	(1)	tension" source="154" target="31">
+<att type="string" name="canonicalName" value="rcn165	(1)	tension"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="FA	(1)	rcn165" source="65" target="154">
+<att type="string" name="canonicalName" value="FA	(1)	rcn165"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="contractility	(1)	rcn165" source="102" target="154">
+<att type="string" name="canonicalName" value="contractility	(1)	rcn165"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="ROCK	(1)	MLC" source="34" target="108">
+<att type="string" name="canonicalName" value="ROCK	(1)	MLC"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="tension	(1)	TRPC" source="31" target="11">
+<att type="string" name="canonicalName" value="tension	(1)	TRPC"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="tension	(1)	AT1R" source="31" target="2">
+<att type="string" name="canonicalName" value="tension	(1)	AT1R"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AT1R	(1)	YAP" source="2" target="88">
+<att type="string" name="canonicalName" value="AT1R	(1)	YAP"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="YAP	(1)	aSMA" source="88" target="71">
+<att type="string" name="canonicalName" value="YAP	(1)	aSMA"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AngII	(1)	AT2R" source="1" target="109">
+<att type="string" name="canonicalName" value="AngII	(1)	AT2R"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="rcn172	(1)	ERK" source="155" target="58">
+<att type="string" name="canonicalName" value="rcn172	(1)	ERK"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="ROS	(1)	rcn172" source="6" target="155">
+<att type="string" name="canonicalName" value="ROS	(1)	rcn172"/>
+<att type="string" name="interaction" value="1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="ARROW" type="string" cy:type="String"/>
+</graphics>
+</edge>
+<edge label="AT2R	(-1)	rcn172" source="109" target="155">
+<att type="string" name="canonicalName" value="AT2R	(-1)	rcn172"/>
+<att type="string" name="interaction" value="-1" cy:editable="false"/>
+<graphics width="2.0" fill="#000000">
+<att name="EDGE_TARGET_ARROW_SHAPE" value="T" type="string" cy:type="String"/>
+</graphics>
+</edge>
+</graph>
